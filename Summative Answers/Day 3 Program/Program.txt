@@ -1,0 +1,9 @@
+def factorial():
+ 
+ 
+for i in range(3):
+  n = input("Enter number 3 or 5: ")
+  if n== "3":
+    print ("1*2*3= 6. Factorial of 3 is 6")
+  else:
+    print ("1*2*3*4*5= 120. Factorial of 5 is 120")
